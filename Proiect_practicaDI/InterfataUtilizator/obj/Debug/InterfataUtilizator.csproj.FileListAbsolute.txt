@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe.config
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\InterfataUtilizator.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.Properties.Resources.resources
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.InterfataGrafica.resources
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\LibrarieClase.dll
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\NivelStocareDate.dll
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\LibrarieClase.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\bin\Debug\NivelStocareDate.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\Interfat.12A97923.Up2Date
+C:\Users\student\Desktop\Proiect_practicaDI\InterfataUtilizator\obj\Debug\InterfataUtilizator.FormaCitire.resources

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Proiect_practicaDI\LibrarieClase\bin\Debug\LibrarieClase.dll
+C:\Users\student\Desktop\Proiect_practicaDI\LibrarieClase\bin\Debug\LibrarieClase.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\LibrarieClase\obj\Debug\LibrarieClase.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Proiect_practicaDI\LibrarieClase\obj\Debug\LibrarieClase.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Proiect_practicaDI\LibrarieClase\obj\Debug\LibrarieClase.dll
+C:\Users\student\Desktop\Proiect_practicaDI\LibrarieClase\obj\Debug\LibrarieClase.pdb

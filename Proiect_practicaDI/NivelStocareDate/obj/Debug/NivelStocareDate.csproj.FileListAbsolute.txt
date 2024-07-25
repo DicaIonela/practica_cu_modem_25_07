@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\bin\Debug\LibrarieClase.dll
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\bin\Debug\LibrarieClase.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\NivelStocareDate\obj\Debug\NivelSto.ECC26E05.Up2Date

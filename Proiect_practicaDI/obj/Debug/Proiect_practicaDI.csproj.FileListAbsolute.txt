@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\Proiect_practicaDI.exe.config
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\Proiect_practicaDI.exe
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\Proiect_practicaDI.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\NivelStocareDate.dll
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\NivelStocareDate.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\obj\Debug\Proiect_practicaDI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Proiect_practicaDI\obj\Debug\Proiect_practicaDI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Proiect_practicaDI\obj\Debug\Proiect_.73A09CB0.Up2Date
+C:\Users\student\Desktop\Proiect_practicaDI\obj\Debug\Proiect_practicaDI.exe
+C:\Users\student\Desktop\Proiect_practicaDI\obj\Debug\Proiect_practicaDI.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\LibrarieClase.dll
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\LibrarieClase.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\InterfataUtilizator.exe
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\InterfataUtilizator.pdb
+C:\Users\student\Desktop\Proiect_practicaDI\bin\Debug\InterfataUtilizator.exe.config
